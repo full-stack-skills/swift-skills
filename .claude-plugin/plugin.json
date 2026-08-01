@@ -1,0 +1,22 @@
+{
+  "name": "swift-skills",
+  "version": "0.1.0",
+  "description": "Production-ready Swift language, engineering, and lossless Java migration skills",
+  "author": {
+    "name": "PartMe.AI",
+    "email": "partmeai@gmail.com"
+  },
+  "homepage": "https://github.com/full-stack-skills/swift-skills",
+  "repository": "https://github.com/full-stack-skills/swift-skills",
+  "source": "./",
+  "skills": [
+    "./skills/swift-stable",
+    "./skills/swift-package-manager",
+    "./skills/swift-concurrency",
+    "./skills/swift-testing",
+    "./skills/swift-code-review",
+    "./skills/swift-java-migration",
+    "./skills/swift-java-migration-testing"
+  ]
+}
+

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "cases": [
+    {"id":"stable-protocols","prompt":"Fix a Swift generic protocol and ownership compiler error.","expected_skills":["swift-stable"],"assertions":["checks toolchain and platform","preserves type safety","runs compilation"]},
+    {"id":"swiftpm-layout","prompt":"Create a reproducible multi-target Swift package.","expected_skills":["swift-package-manager"],"assertions":["models products and targets","pins supported platforms","runs swift test"]},
+    {"id":"actor-isolation","prompt":"Repair actor isolation and cancellation bugs in an async service.","expected_skills":["swift-concurrency"],"assertions":["preserves structured concurrency","checks Sendable boundaries","tests cancellation"]},
+    {"id":"testing-contract","prompt":"Add deterministic async tests for a Swift service and adapters.","expected_skills":["swift-testing"],"assertions":["tests observable contracts","avoids fixed sleeps","covers adapters"]},
+    {"id":"review-swift","prompt":"Review this Swift change for correctness and production risk.","expected_skills":["swift-code-review"],"assertions":["findings are severity ordered","each finding cites evidence","does not mutate code"]},
+    {"id":"java-migration","prompt":"Migrate a Java library to Swift without simplifying semantics.","expected_skills":["swift-java-migration"],"assertions":["builds object and member ledger","preserves contracts","uses Swift-native implementation"]},
+    {"id":"java-migration-acceptance","prompt":"Prove that a Java-to-Swift migration is complete.","expected_skills":["swift-java-migration-testing","swift-testing"],"assertions":["requires 100 percent source tests","requires byte-identical assets","requires project-test acceptance and full differential MATCH"]}
+  ]
+}
+
