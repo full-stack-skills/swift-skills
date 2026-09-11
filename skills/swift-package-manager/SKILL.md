@@ -1,5 +1,6 @@
 ---
 name: swift-package-manager
+license: Apache-2.0
 description: Design, repair, and validate Swift Package Manager manifests, products, targets, dependencies, resources, plugins, platform constraints, binary targets, build settings, test topology, CI, and publishing. Use for Package.swift, Package.resolved, Sources, Tests, Plugins, target layout, dependency resolution, or SwiftPM build failures.
 ---
 

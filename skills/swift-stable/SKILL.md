@@ -1,5 +1,6 @@
 ---
 name: swift-stable
+license: Apache-2.0
 description: Implement and diagnose stable Swift language semantics including value and reference types, optionals, generics, protocols, existentials, ownership, access control, enums, pattern matching, closures, error handling, Codable boundaries, and Objective-C interoperability. Use for Swift source changes and compiler errors; combine with package, concurrency, testing, review, or migration skills as needed.
 ---
 

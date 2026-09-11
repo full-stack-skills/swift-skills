@@ -1,5 +1,6 @@
 ---
 name: swift-concurrency
+license: Apache-2.0
 description: Implement and review Swift structured concurrency with async/await, Task groups, actors, global actors, Sendable, AsyncSequence, continuations, cancellation, priorities, clocks, and deterministic testing. Use for actor-isolation errors, data races, task leaks, callback bridging, cancellation defects, or Swift 6 strict-concurrency work.
 ---
 

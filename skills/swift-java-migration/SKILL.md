@@ -1,5 +1,6 @@
 ---
 name: swift-java-migration
+license: Apache-2.0
 description: Migrate Java systems to Swift without semantic simplification by inventorying every production object and member, preserving public behavior, mapping Java runtime and frameworks deliberately, implementing Swift-native code, and maintaining an auditable migration ledger. Use for Java-to-Swift ports, rewrites, compatibility layers, and migration-completeness work; pair with swift-java-migration-testing for proof.
 ---
 

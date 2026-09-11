@@ -1,5 +1,6 @@
 ---
 name: swift-java-migration-testing
+license: Apache-2.0
 description: Prove Java-to-Swift migration completeness through 100 percent lossless source-test implementation, byte-identical source assets, dedicated whole-project acceptance packages, full Java/Swift differential execution, Swift-specific risk tests, and auditable evidence. Use during or after swift-java-migration; coverage alone never satisfies this skill.
 ---
 

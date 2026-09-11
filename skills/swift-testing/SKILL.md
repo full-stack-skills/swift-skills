@@ -1,5 +1,6 @@
 ---
 name: swift-testing
+license: Apache-2.0
 description: Design high-value Swift tests across XCTest or Swift Testing, unit, integration, async, contract, adapter, end-to-end, property, performance, and regression layers. Use to create or assess Swift tests, fixtures, coverage, determinism, mutation sensitivity, platform matrices, and whole-project migration acceptance packages.
 ---
 

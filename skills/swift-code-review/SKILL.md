@@ -1,5 +1,6 @@
 ---
 name: swift-code-review
+license: Apache-2.0
 description: Review Swift changes for correctness, API compatibility, ownership, concurrency, memory safety, Codable and Objective-C bridges, security, performance, test quality, and SwiftPM integration. Use when asked to review, audit, assess risk, or explain defects; report evidence-backed findings without changing code unless a fix is explicitly requested.
 ---
 
